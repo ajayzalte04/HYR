@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HYR Suite">
+<listeners>
+	<listener class-name="com.qa.utilLayer.ListnerImp"></listener>
+	<listener class-name="com.qa.utilLayer.ExtentReporterNG"></listener>
+</listeners>
+  <test thread-count="5" name="Selenium Practice Test">
+    <classes>
+      <class name="com.qa.testLayer.Test_SelPract">
+	       <methods>
+	          	<exclude name="TC01_DropDown"/> 
+	            <include name="TC02_Wait"/> 
+	            <include name="TC03_WindoHandle"/>
+	       </methods>
+       </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
