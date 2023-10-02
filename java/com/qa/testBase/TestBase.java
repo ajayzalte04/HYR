@@ -35,6 +35,7 @@ public class TestBase {
 	@BeforeMethod
 	public void setup() throws IOException
 	{
+		//config.properties for configuration
 		String file_path="./config.properties";
 		File src=new File(file_path);
 		FileInputStream fis=new FileInputStream(src);
