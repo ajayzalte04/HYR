@@ -16,7 +16,7 @@ import com.qa.testBase.TestBase;
 import com.qa.utilLayer.Uitility;
 
 public class DropDown extends TestBase{
-
+//Automating the script to handle drop down webelement
 	public DropDown()
 	{
 		PageFactory.initElements(driver, this);
