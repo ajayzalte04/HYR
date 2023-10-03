@@ -494,3 +494,124 @@
 2023-10-03 16:30:38,045 [main] INFO Selenium Practice - browser cookies deleted successfuly
 2023-10-03 16:30:40,609 [main] INFO Selenium Practice - google search start successfuly
 2023-10-03 16:30:40,615 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:40:05,119 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:40:08,256 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:40:08,390 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:40:10,215 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:40:12,747 [main] INFO Selenium Practice - google search start successfuly
+2023-10-03 16:40:12,752 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:48:57,717 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:49:01,003 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:49:01,133 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:49:02,639 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:49:13,608 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:49:13,622 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:49:13,922 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:49:16,048 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 16:49:28,358 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 16:49:39,657 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:49:41,911 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:49:42,033 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:49:44,473 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:50:11,338 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:50:11,343 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:50:11,548 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:50:13,685 [main] INFO Selenium Practice - clicked window handle tab successfuly
+2023-10-03 16:50:18,080 [main] INFO Selenium Practice - ad closed  successfuly
+2023-10-03 16:50:20,302 [main] INFO Selenium Practice - clicked multiple window tab successfuly
+2023-10-03 16:50:20,678 [main] INFO Selenium Practice - 664F1B6410F1696AC386CC68598C0D58
+2023-10-03 16:50:20,693 [main] INFO Selenium Practice -  Window Handles Practice - H Y R Tutorials
+2023-10-03 16:50:20,693 [main] INFO Selenium Practice - I am parent window
+2023-10-03 16:50:30,769 [main] INFO Selenium Practice - F6B35B7976183384679412BCC30540C9
+2023-10-03 16:50:30,784 [main] INFO Selenium Practice -  Window Handles Practice - H Y R Tutorials
+2023-10-03 16:50:30,784 [main] INFO Selenium Practice - I am child window 1
+2023-10-03 16:50:30,785 [main] INFO Selenium Practice - child window 1 closed
+2023-10-03 16:50:30,785 [main] INFO Selenium Practice - D357DC48E0F51238CDA800CF3C4B6410
+2023-10-03 16:50:30,793 [main] INFO Selenium Practice -  Window Handles Practice - H Y R Tutorials
+2023-10-03 16:50:30,793 [main] INFO Selenium Practice - I am child window 2
+2023-10-03 16:50:30,806 [main] INFO Selenium Practice - child window 2 closed
+2023-10-03 16:50:31,711 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:50:34,273 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:50:34,394 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:50:36,325 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:50:48,961 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:50:48,969 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:50:52,323 [main] INFO Selenium Practice - google search start successfuly
+2023-10-03 16:50:52,327 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:51:13,648 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:51:14,720 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:51:14,876 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:51:16,523 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:51:25,337 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:51:25,341 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:51:25,518 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:51:27,705 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 16:51:39,936 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 16:52:45,704 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:52:49,105 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:52:49,240 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:52:50,741 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:53:04,755 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:53:04,760 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:53:05,062 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:53:07,185 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 16:53:19,356 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 16:53:30,213 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:53:31,630 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:53:31,759 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:53:33,555 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:53:43,730 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:53:43,738 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:53:47,719 [main] INFO Selenium Practice - google search start successfuly
+2023-10-03 16:53:47,728 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:54:06,419 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:54:07,628 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:54:07,754 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:54:09,570 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:54:18,251 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:54:18,260 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:54:18,493 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:54:20,617 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 16:54:46,148 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 16:54:46,608 [main] INFO Selenium Practice - course language selected successfuly
+2023-10-03 16:54:46,721 [main] INFO Selenium Practice - Python
+2023-10-03 16:54:46,831 [main] INFO Selenium Practice - ide NetBeans selected successfuly
+2023-10-03 16:54:46,904 [main] INFO Selenium Practice - NetBeans
+2023-10-03 16:54:46,977 [main] INFO Selenium Practice - ide Eclipse selected successfuly
+2023-10-03 16:54:47,018 [main] INFO Selenium Practice - Eclipse
+2023-10-03 16:58:00,191 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:58:03,215 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:58:03,365 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:58:05,129 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 16:58:17,540 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 16:58:17,548 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 16:58:17,764 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 16:58:19,935 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 16:58:25,545 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 16:58:25,648 [main] INFO Selenium Practice - clicked Textbox1 successfuly
+2023-10-03 16:58:30,791 [main] INFO Selenium Practice - wait provided for textbox1 successfuly
+2023-10-03 16:58:30,973 [main] INFO Selenium Practice - clicked Textbox2 successfuly
+2023-10-03 16:58:41,050 [main] INFO Selenium Practice - wait provided for textbox2 successfuly
+2023-10-03 16:59:30,642 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 16:59:33,673 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 16:59:33,838 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 16:59:35,478 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 17:00:25,427 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 17:00:25,437 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 17:00:30,689 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 17:00:41,968 [main] INFO Selenium Practice - clicked dropDown successfuly
+2023-10-03 17:00:46,920 [main] INFO Selenium Practice - adFrame closed successfuly
+2023-10-03 17:00:47,020 [main] INFO Selenium Practice - clicked Textbox1 successfuly
+2023-10-03 17:00:52,139 [main] INFO Selenium Practice - wait provided for textbox1 successfuly
+2023-10-03 17:00:52,378 [main] INFO Selenium Practice - clicked Textbox2 successfuly
+2023-10-03 17:01:02,456 [main] INFO Selenium Practice - wait provided for textbox2 successfuly
+2023-10-03 17:01:02,609 [main] INFO Selenium Practice - clicked Textbox2 successfuly
+2023-10-03 17:01:02,977 [main] INFO Selenium Practice - Ganpati Bappa Morya
+2023-10-03 17:01:03,941 [main] INFO Selenium Practice - browser start successfuly
+2023-10-03 17:01:04,063 [main] INFO Selenium Practice - browser maximized successfuly
+2023-10-03 17:01:05,792 [main] INFO Selenium Practice - browser cookies deleted successfuly
+2023-10-03 17:01:20,835 [main] INFO Selenium Practice - url start successfuly
+2023-10-03 17:01:20,840 [main] INFO Selenium Practice - timeout provided successfuly
+2023-10-03 17:01:21,014 [main] INFO Selenium Practice - rollover_seleniumPractice successfuly
+2023-10-03 17:01:23,205 [main] INFO Selenium Practice - clicked window handle tab successfuly
+2023-10-03 17:01:35,405 [main] INFO Selenium Practice - ad closed  successfuly

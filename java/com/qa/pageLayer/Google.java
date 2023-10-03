@@ -45,7 +45,6 @@ public class Google extends TestBase {
 	    googleSearch.sendKeys(actress+Keys.ENTER);
 	    Thread.sleep(10000);
 	    driver.findElement(By.xpath("//div[@class='CIVrJb oLJ4Uc']/child::img[@id='rimg_3']")).click();
-	    
 	    driver.findElement(By.xpath("//img[@class='r48jcc pT0Scc iPVvYb']")).click();
 	    Thread.sleep(5000);
 	    Uitility.photoCapture(actress, driver);

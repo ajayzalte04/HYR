@@ -13,7 +13,7 @@ import com.qa.testBase.TestBase;
 
 public class Test_SelPract extends TestBase {
 	
-	@Test(priority=2)
+	@Test()
 	public void TC01_DropDown() throws InterruptedException
 	{
 		dropDown=new DropDown();
@@ -24,7 +24,7 @@ public class Test_SelPract extends TestBase {
 		dropDown.ide_dropDown();
 	}
 	
-	@Test(priority=0)
+	@Test()
 	public void TC02_Wait() throws InterruptedException
 	{
 		wait=new Wait();
@@ -47,21 +47,21 @@ public class Test_SelPract extends TestBase {
 		windoHandle.click_WindoHandle();
 		windoHandle.adFrame();
 		//newWindow
-//		windoHandle.open_new_window();
-//		windoHandle.enter_name_childWindow("Rihan");
-//		windoHandle.enter_lname_childWindow("Kapoor");
-//		
-//		//newTab_Alert
-//		windoHandle.open_new_Tab();
-//		windoHandle.newTab_simpleAlert();
-//		windoHandle.Prompt_alert_newTab();
+		windoHandle.open_new_window();
+		windoHandle.enter_name_childWindow("Rihan");
+		windoHandle.enter_lname_childWindow("Kapoor");
+		
+		//newTab_Alert
+		windoHandle.open_new_Tab();
+		windoHandle.newTab_simpleAlert();
+		windoHandle.Prompt_alert_newTab();
 		
 	    //Multiple Window
 		windoHandle.open_Mult_Window();
 		
 	}
 	@Test
-	public void TC03_googleSearch() throws InterruptedException, IOException
+	public void TC04_googleSearch() throws InterruptedException, IOException
 	{
 		google= new Google();
 		google.search("Rashmika");

@@ -79,10 +79,10 @@ public class TestBase {
 	    logger.info("browser maximized successfuly");
 		driver.manage().deleteAllCookies();
 		logger.info("browser cookies deleted successfuly");
-//		driver.get(baseURL);
-//		logger.info("url start successfuly");
-//	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-//	    logger.info("timeout provided successfuly");
+		driver.get(baseURL);
+		logger.info("url start successfuly");
+	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	    logger.info("timeout provided successfuly");
 	}
 	
 	@AfterMethod

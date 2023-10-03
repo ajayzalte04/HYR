@@ -12,6 +12,7 @@
 	          	<exclude name="TC01_DropDown"/> 
 	            <include name="TC02_Wait"/> 
 	            <include name="TC03_WindoHandle"/>
+	            <exclude name="TC04_googleSearch"/>
 	       </methods>
        </class>
     </classes>
