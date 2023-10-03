@@ -2,9 +2,11 @@ package com.qa.testLayer;
 
 import java.io.IOException;
 
+import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
 
 import com.qa.pageLayer.DropDown;
+import com.qa.pageLayer.Google;
 import com.qa.pageLayer.Wait;
 import com.qa.pageLayer.WindoHandle;
 import com.qa.testBase.TestBase;
@@ -58,9 +60,12 @@ public class Test_SelPract extends TestBase {
 		windoHandle.open_Mult_Window();
 		
 	}
-	
-	
-
+	@Test
+	public void TC03_googleSearch() throws InterruptedException, IOException
+	{
+		google= new Google();
+		google.search("Rashmika");
+	}
 	
 
 }

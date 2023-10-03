@@ -17,6 +17,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 
 import com.qa.pageLayer.DropDown;
+import com.qa.pageLayer.Google;
 import com.qa.pageLayer.Wait;
 import com.qa.pageLayer.WindoHandle;
 
@@ -28,7 +29,7 @@ public class TestBase {
 	public DropDown dropDown;
 	public Wait wait;
 	public WindoHandle windoHandle;
-	
+	public Google google;
 	Properties prop;
 	
 	
@@ -78,10 +79,10 @@ public class TestBase {
 	    logger.info("browser maximized successfuly");
 		driver.manage().deleteAllCookies();
 		logger.info("browser cookies deleted successfuly");
-		driver.get(baseURL);
-		logger.info("url start successfuly");
-	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-	    logger.info("timeout provided successfuly");
+//		driver.get(baseURL);
+//		logger.info("url start successfuly");
+//	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+//	    logger.info("timeout provided successfuly");
 	}
 	
 	@AfterMethod

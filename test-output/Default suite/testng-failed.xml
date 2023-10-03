@@ -6,8 +6,8 @@
       <class name="com.qa.testLayer.Test_SelPract">
         <methods>
           <include name="tearDown"/>
-          <include name="TC02_Wait"/>
           <include name="setup"/>
+          <include name="TC03_googleSearch"/>
         </methods>
       </class> <!-- com.qa.testLayer.Test_SelPract -->
     </classes>
